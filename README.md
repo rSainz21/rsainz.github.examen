@@ -29,7 +29,8 @@ El sistema hospitalario incluye las siguientes funcionalidades principales:
 
 Para utilizar la aplicacion, sigue las instrucciones proporcinadas en la interfaz de usuario o consulta la documentacion del usuario incluida en el repositorio.  
 A continuacion se detalla la funcion dentro del sistema de cada uno de los usuarios:  
-|Usuario|Funcionalidad  
+
+|Usuario|Funcionalidad|  
 |-------|-------|  
 |Paciente|Solicita citas, accede a su historial, contacta con el medico.|  
 |Medico|Gestiona citas, consulta historiales, emite recetas.|  
